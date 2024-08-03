@@ -2,7 +2,7 @@
 
 Proyecto para aprender el lenguaje de Kotlin desde 0 en 100 días (o más)
 
-![100 dias Kotlin v2](https://raw.githubusercontent.com/Peque29/100-Dias-de-Kotlin/main/100diasKotlin.png)
+![100 dias Kotlin v2](https://raw.githubusercontent.com/elpeque29/100-Dias-de-Kotlin/main/100diasKotlin.png)
 
 ## ¿Qué es?
 
