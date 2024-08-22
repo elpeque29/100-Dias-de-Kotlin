@@ -12,7 +12,7 @@ Se trata de una iniciativa grupal del servidor de [MoureDev](https://moure.dev/)
 
 El proyecto consiste en dedicar durante 100 días un rato al menos a estudiar Kotlin y subir los progresos que vayamos teniendo, haciendo así una ruta para aprender y repasar (y si puede servirle a alguien, mejor).
 
-## ¿Cómo participar
+## ¿Cómo participar?
 
 Este proyecto no va a acabar nunca. Incluso si quieres participar el año que viene, dentro de 2 o 3, puedes unirte al servidor de Mouredev, hacer comunidad y apuntarte. Nunca es tarde para aprender. | [↗ Discord](https://discord.com/invite/mouredev)
 
